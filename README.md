@@ -7,7 +7,7 @@ An automated WireGuard VPN setup script for Debian/Ubuntu servers with easy inst
 Run this command on your server:
 
 ```bash
-curl -O https://raw.githubusercontent.com/AtizaD/wireguard/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh -i
+curl -O https://raw.githubusercontent.com/AtizaD/Wireguard/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh -i
 ```
 
 ## ✨ Features
